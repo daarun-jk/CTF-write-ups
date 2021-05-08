@@ -12,6 +12,7 @@ John Appleseed
 
 We're to find the professor's name
 I started with google searching the list of professors in the computer science department and if see if I'm able to find any professor from the mathematics department.
+
 ![Screenshot_2021-05-08_22-08-03.png](https://github.com/jkdarun/CTF-write-ups/blob/main/SDCTF/images/Screenshot_2021-05-08_22-08-03.png)
 
 no luck
@@ -19,6 +20,8 @@ no luck
 Now, I searched for associate professors in mathematics department on google.
 this page seemed to have more information.
 Did a quick search for "associate" in the page and found this
+
+![Screenshot_2021-05-08_22-08-42.png](https://github.com/jkdarun/CTF-write-ups/blob/main/SDCTF/images/Screenshot_2021-05-08_22-08-42.png)
 
 Haha, found the professor.
 The flag was "Daniel Kane" 
