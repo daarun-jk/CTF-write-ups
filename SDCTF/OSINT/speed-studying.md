@@ -12,7 +12,7 @@ John Appleseed
 
 We're to find the professor's name
 I started with google searching the list of professors in the computer science department and if see if I'm able to find any professor from the mathematics department.
-
+![Screenshot_2021-05-08_22-08-03.png](https://github.com/jkdarun/CTF-write-ups/blob/main/SDCTF/images/Screenshot_2021-05-08_22-08-03.png)
 
 no luck
 
