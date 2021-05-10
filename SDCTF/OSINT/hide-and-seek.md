@@ -1,4 +1,4 @@
-OSINT - EASY
+#OSINT - EASY
 hIDe and seek
 We don't know the flag, but we know some people who do! Here are their locations:
 Location
@@ -19,7 +19,7 @@ a simple google search for it said that imgur is one of the most popular image h
 So, going to https://imgur.com/qFHIm0c.jpeg , we get the 2nd half of the flag.
 _h4D_n0_ID3a!}
 
-![]()
+![qFHIm0c.jpeg](https://github.com/jkdarun/CTF-write-ups/blob/main/SDCTF/images/qFHIm0c.jpeg)
 
 The complete flag then becomes :
 sdctf{W0w_1_h4D_n0_ID3a!}
